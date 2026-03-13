@@ -1,9 +1,12 @@
 # Lung Cancer Detection using CNN
 
-Name: Aditi Saxena 
+Name: Aditi Saxena
+
 Registered Email:
 reenasaxena0307@gmail.com
+
 Course & Batch: PBEL 2.2 Artifical Intelligence - Batch 8
+
 
 ## Project Overview
 This project uses Convolutional Neural Networks (CNN) to detect lung cancer from chest X-ray images.
